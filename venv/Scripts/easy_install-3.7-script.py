@@ -1,4 +1,4 @@
-#!C:\Users\adailsonacj\PycharmProjects\CursoEmVideo\venv\Scripts\python.exe
+#!C:\Users\adailsonacj\GitHub\exerciciosPythoCursoEmVideo\venv\Scripts\python.exe
 # EASY-INSTALL-ENTRY-SCRIPT: 'setuptools==39.1.0','console_scripts','easy_install-3.7'
 __requires__ = 'setuptools==39.1.0'
 import re
